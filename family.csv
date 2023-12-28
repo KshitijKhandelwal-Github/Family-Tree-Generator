@@ -1,0 +1,12 @@
+ID,S,First name,Last name,DoB,DoD,FatherID,MotherID,SpouseID,Place of birth,Job
+JoS1,M,John,S,1111,2222,,,MaJo,India,Job-1
+MaS1,F,Mary,S,1112,,,,MaJo,India,Job-2
+JaS,M,Jacob,S,1113,,JoS1,MaS1,KeJa,India,Job-3
+JoS2,M,Joe,S,1114,2225,JoS1,MaS1,AnJo,India,Job-4
+MaS2,F,Macy,D,1115,,JoS1,MaS1,MaAn,India,Job-5
+KeS,F,Keysha,S,1116,,,,KeJa,India,Job-6
+AnD,M,Andy,D,1117,,,,MaAn,India,Job-7
+AnS,F,Anna,S,1118,,,,AnJo,India,Job-8
+MiS,M,Mike,S,1119,,JaS,KeS,,India,
+SaS,M,Sam,S,1120,,JaS,KeS,,India,
+MaS3,F,Matt,S,2345,,JoS2,AnS,,India,
